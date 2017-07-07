@@ -1,0 +1,7 @@
+*.pem
+*.o
+.flavor
+.objs
+app.so
+assets.h
+cert
